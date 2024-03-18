@@ -2,9 +2,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif; 
-    
+    font-family: Arial, Helvetica, sans-serif;   
 }
+html, body{
+    width:100%!important;
+    overflow-x:hidden!important;
+
 .main{
     background-color: rgb(245, 204, 4);
     width: 100%;
