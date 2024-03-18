@@ -7,6 +7,16 @@
 html, body{
     width:100%!important;
     overflow-x:hidden!important;
+    {
+@media only screen and(max-width:400px){
+    body{ background-color: gray}}
+    @media only screen and (min-width:401px) and (max-width:960px){
+        body{
+            background-color: gray;}}
+            @media only screen and (min-width:961px){
+                body{background-color: #184c68 ;}
+            }
+
 
 .main{
     background-color: rgb(245, 204, 4);
