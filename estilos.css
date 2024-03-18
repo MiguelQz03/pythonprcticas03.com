@@ -77,6 +77,14 @@ padding: 10px;
     padding: 15px;
     
 }
+.pdfview{
+    margin:auto;
+    display: block;
+    width:850px;
+    height:100vh;
+    border-radius:20px;
+    box-shadow:0 4px 8px rgba(0, 0, 0, 0.2), 0, 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 
 .politicas a{
     font-weight: 900;
